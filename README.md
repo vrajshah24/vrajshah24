@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrajshah24" alt="vrajshah24" /></a> </p>
 
-- 🔭 I’m currently working on </Android> , </IOS> , </Web>
+- 🔭 I’m currently working on Android , IOS> , Web
 
-- 🌱 I’m currently learning **Flutter , Web 3.0**
+- 🌱 I’m currently learning Flutter , Web 3.0
 
 - 👯 I’m looking to collaborate on [Email](vrajjshah2410@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vrajshah24](https://github.com/vrajshah24)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about Flutter
 
-- 📫 How to reach me **vrajjshah2410@gmail.com**
+- 📫 How to reach me vrajjshah2410@gmail.com
 
-- ⚡ Fun fact **I love eating 🍔🍕**
+- ⚡ Fun fact I love eating 🍔🍕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

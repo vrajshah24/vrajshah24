@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrajshah24" alt="vrajshah24" /></a> </p>
 
-- 🔭 I’m currently working on **</Android> , </IOS> , </Web>**
+- 🔭 I’m currently working on </Android> , </IOS> , </Web>
 
 - 🌱 I’m currently learning **Flutter , Web 3.0**
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Android , IOS , Web
 
-- 🌱 I’m currently learning Flutter , Web 3.0
+- 🌱 I’m currently learning Flutter
 
 - 👯 I’m looking to collaborate on [Email](vrajjshah2410@gmail.com)
 

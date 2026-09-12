@@ -22,7 +22,7 @@ I design the system, train and serve the model, build the backend it talks to, a
 - ☁️ **Infra**: AWS, GCP, Docker, CI/CD, Nginx, monitoring. Boring on purpose.
 - ⚙️ **Backend and DB**: FastAPI, Node, Python services; Postgres, Redis, Mongo, Kafka, ClickHouse. Indexing and query plans before scaling hardware.
 - 📊 **Research**: econometrics replication for an NBER-linked team, biomedical papers headed to Scopus.
-- 📱 Also ship Flutter apps when the product needs a client.
+- 🌐 **Web and mobile**: React, Next.js, Vite, React Native, Flutter. Animated, performance-tuned frontends when the product needs a face.
 
 ---
 
@@ -81,9 +81,15 @@ I design the system, train and serve the model, build the backend it talks to, a
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
-**Client (when needed)**
+**Web / Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,ts,js,html,css,tailwind,flutter&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---

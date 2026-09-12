@@ -28,29 +28,62 @@ I design the system, train and serve the model, build the backend it talks to, a
 
 ## 🛠️ Stack
 
-**AI / ML**
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,jupyter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,kotlin,r,matlab,dart,cpp&perline=10" />
+</p>
+
+**AI / ML / LLM**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/vLLM-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
 </p>
 
 **Backend / Architecture**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,graphql,laravel,go&perline=8" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,graphql,laravel&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 **Data / DB**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,cassandra,kafka,sqlite,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,cassandra,supabase,sqlite,firebase&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
 </p>
 
 **Infra / DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,githubactions,linux,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,githubactions,linux,bash,grafana&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
 **Client (when needed)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&perline=8" />
 </p>
 
 ---

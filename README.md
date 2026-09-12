@@ -106,20 +106,21 @@ I design the system, train and serve the model, build the backend it talks to, a
 ## 📈 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vrajshah24&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajshah24&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrajshah24&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrajshah24&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vrajshah24&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vrajshah24&theme=tokyonight&utcOffset=5.5" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrajshah24&theme=redical&bg_color=0d0221&color=a855f7&line=7c3aed&point=ffffff&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vrajshah24&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vrajshah24&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrajshah24&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=vrajshah24&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
